@@ -8,5 +8,6 @@ How to use
     Run composer install
     Run php artisan key:generate
     Make a database as dbkhes and import the sql file
+    Use the credintials to login username= nipun@gmail.com password = nipun@123
     That's it - load the homepage
 
